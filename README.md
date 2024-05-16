@@ -1,4 +1,5 @@
 Final Project 2023
+
 the Project written in C++.
 
 Background :
@@ -10,6 +11,7 @@ In the project I focused on a variant of the problem with the function n(H2,3 , 
 The girth of a graph is the length of its shortest cycle.
 
 * Reminder *
+  
 H2,3 - half of the vertices are of degree 2 and half are of degree 3
 
 The Algorithm:
